@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b09c19fc2fdbc241a489a442dc96cb5, type: 3}
+  m_Name: Satori_Pattern3a
+  m_EditorClassIdentifier: 
+  shotIcon: {fileID: 0}
+  dropIcon: {fileID: 0}
+  bulletPrefab: {fileID: 8816382792648444474, guid: 9bf94ef2d35560f42b57daf263b2f273,
+    type: 3}
+  bulletPropertyList:
+  - bulletProperty: {fileID: 11400000, guid: 2a0c6c12b76110146b97541b4f7ec082, type: 2}
+    propertyLifetime: 0.8
+  - bulletProperty: {fileID: 11400000, guid: 40fa3e10983795849a96fd3c5cd80d79, type: 2}
+    propertyLifetime: 0.8
+  - bulletProperty: {fileID: 11400000, guid: 7403cc8cd1bd73e4d8854dc83d749fd3, type: 2}
+    propertyLifetime: 100
+  spawnDirectionOffset: -12
+  spawnCount: 8
+  spawnAngleAddition: 45
+  intervalCount: 10
+  intervalAngleAddition: 36
+  initialDelay: 0
+  intervalDelay: 0.2

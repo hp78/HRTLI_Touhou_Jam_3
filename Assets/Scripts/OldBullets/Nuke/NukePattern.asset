@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf9311c68eee37141b6c748579ebaa5a, type: 3}
+  m_Name: NukePattern
+  m_EditorClassIdentifier: 
+  shotIcon: {fileID: 0}
+  dropIcon: {fileID: 0}
+  bulletPrefab: {fileID: 4812502324196340, guid: bd631fa5233574140889a58324de201e,
+    type: 2}
+  bulletType: {fileID: 11400000, guid: a0d5a7afeb0a06b4fac530ad15cba9ba, type: 2}
+  spawnDirectionOffset: 0
+  spawnCount: 1
+  spawnAngleAddition: 0
+  intervalCount: 1
+  intervalAngleAddition: 0
+  initialDelay: 0
+  intervalDelay: 0

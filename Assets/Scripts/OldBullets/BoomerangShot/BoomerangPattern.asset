@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf9311c68eee37141b6c748579ebaa5a, type: 3}
+  m_Name: BoomerangPattern
+  m_EditorClassIdentifier: 
+  shotIcon: {fileID: 21300000, guid: 1a7af2bbf895bac4a8393d2de7c97cde, type: 3}
+  dropIcon: {fileID: 21300000, guid: cdc879741aa893b42b37d73a26f76418, type: 3}
+  bulletPrefab: {fileID: 4127733042436462, guid: e0ccc88b77594654fbd5c111ed72a145,
+    type: 2}
+  bulletType: {fileID: 11400000, guid: 0f2ecb3bc5a3bdd4cb326a89411d496e, type: 2}
+  spawnDirectionOffset: 0
+  spawnCount: 1
+  spawnAngleAddition: 0
+  intervalCount: 1
+  intervalAngleAddition: 0
+  initialDelay: 0
+  intervalDelay: 0

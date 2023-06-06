@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf9311c68eee37141b6c748579ebaa5a, type: 3}
+  m_Name: ExplosivePattern
+  m_EditorClassIdentifier: 
+  bulletPrefab: {fileID: 4073650170177924, guid: 44f1799ed7ccd8c4b84ca1a289f5f0a7,
+    type: 2}
+  bulletType: {fileID: 11400000, guid: a99ab6026a689f44ead6561bbc24437e, type: 2}
+  spawnDirectionOffset: 0
+  spawnCount: 1
+  spawnAngleAddition: 0
+  intervalCount: 1
+  intervalAngleAddition: 0
+  initialDelay: 0
+  intervalDelay: 0

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5567240950bf9c74a8e1a37d96c8c09d, type: 3}
+  m_Name: AllAroundUPattern
+  m_EditorClassIdentifier: 
+  shotIcon: {fileID: 21300000, guid: 1422f91ffd3697e4c8735aee459998c3, type: 3}
+  dropIcon: {fileID: 21300000, guid: 1422f91ffd3697e4c8735aee459998c3, type: 3}
+  bulletPrefab: {fileID: 6778214275120857734, guid: e37f5da8006a0454da825739bd19dfdc,
+    type: 3}
+  bulletType: {fileID: 11400000, guid: 7d0154cf3e8b39e40aa791ee56c08f25, type: 2}
+  spawnDirectionOffset: 0
+  spawnCount: 18
+  spawnAngleAddition: 20
+  intervalCount: 13
+  intervalAngleAddition: 10
+  initialDelay: 0
+  intervalDelay: 0.1

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 39567bd0f7999114bb5c414cff254894
+timeCreated: 1531598340
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: CreativeBlock BB
+  fontNames:
+  - CreativeBlock BB
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

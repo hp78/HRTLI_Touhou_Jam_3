@@ -1,0 +1,4 @@
+repository "2huGameJam3@hp78_2hu_game_jam@cloud"
+  path "/"
+    br "/main"
+    co "/main"

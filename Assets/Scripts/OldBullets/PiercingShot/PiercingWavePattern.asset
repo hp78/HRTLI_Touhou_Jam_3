@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf9311c68eee37141b6c748579ebaa5a, type: 3}
+  m_Name: PiercingWavePattern
+  m_EditorClassIdentifier: 
+  shotIcon: {fileID: 21300000, guid: 868d5983ebdd7b34585bd3b9aaadbf7d, type: 3}
+  dropIcon: {fileID: 21300000, guid: db34a6450805ae14b954bea1a5525b17, type: 3}
+  bulletPrefab: {fileID: 4049864190009698, guid: 8e402d50a6990b1459683ea29dc29fcd,
+    type: 2}
+  bulletType: {fileID: 11400000, guid: 2bb1388258895904cb8c2cec37778ffd, type: 2}
+  spawnDirectionOffset: 0
+  spawnCount: 1
+  spawnAngleAddition: 0
+  intervalCount: 1
+  intervalAngleAddition: 0
+  initialDelay: 0
+  intervalDelay: 0

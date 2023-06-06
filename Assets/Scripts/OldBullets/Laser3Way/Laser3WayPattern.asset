@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf9311c68eee37141b6c748579ebaa5a, type: 3}
+  m_Name: Laser3WayPattern
+  m_EditorClassIdentifier: 
+  shotIcon: {fileID: 21300000, guid: 27ad897de55f0b741ac1e5f3d2a6d5f5, type: 3}
+  dropIcon: {fileID: 21300000, guid: 043231e82b953b04fb7d6a13bd69d8bd, type: 3}
+  bulletPrefab: {fileID: 4330168823761376, guid: c9cf0635a45572f4aad1432beaac4c5c,
+    type: 2}
+  bulletType: {fileID: 11400000, guid: 89d1cfb23076de84f8fce6380233b9fd, type: 2}
+  spawnDirectionOffset: -30
+  spawnCount: 3
+  spawnAngleAddition: 30
+  intervalCount: 10
+  intervalAngleAddition: 0
+  initialDelay: 0
+  intervalDelay: 0.15

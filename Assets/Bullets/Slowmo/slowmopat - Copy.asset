@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5567240950bf9c74a8e1a37d96c8c09d, type: 3}
+  m_Name: slowmopat - Copy
+  m_EditorClassIdentifier: 
+  shotIcon: {fileID: 0}
+  dropIcon: {fileID: 0}
+  bulletPrefab: {fileID: 674352091513729982, guid: 9929fe629c9b12c40bf6f7c3d18fa878,
+    type: 3}
+  bulletType: {fileID: 11400000, guid: 740fb59329176a740a88f2012a46c7ab, type: 2}
+  spawnDirectionOffset: 0
+  spawnCount: 20
+  spawnAngleAddition: 18
+  intervalCount: 3
+  intervalAngleAddition: 9
+  initialDelay: 0
+  intervalDelay: 1

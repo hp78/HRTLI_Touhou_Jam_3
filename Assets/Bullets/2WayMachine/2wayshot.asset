@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5567240950bf9c74a8e1a37d96c8c09d, type: 3}
+  m_Name: 2wayshot
+  m_EditorClassIdentifier: 
+  shotIcon: {fileID: 0}
+  dropIcon: {fileID: 0}
+  bulletPrefab: {fileID: 6778214275120857734, guid: e37f5da8006a0454da825739bd19dfdc,
+    type: 3}
+  bulletType: {fileID: 11400000, guid: e08091df2df9431438950b27d657128b, type: 2}
+  spawnDirectionOffset: -7.5
+  spawnCount: 2
+  spawnAngleAddition: 15
+  intervalCount: 5
+  intervalAngleAddition: 0
+  initialDelay: 0
+  intervalDelay: 0.1

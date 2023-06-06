@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5567240950bf9c74a8e1a37d96c8c09d, type: 3}
+  m_Name: Shiki_Pattern3c
+  m_EditorClassIdentifier: 
+  shotIcon: {fileID: 0}
+  dropIcon: {fileID: 0}
+  bulletPrefab: {fileID: 2104984221714844458, guid: 485c1c2e7fbe1454aabcbb1503140a56,
+    type: 3}
+  bulletType: {fileID: 11400000, guid: 7732cbd6d0e35bc49bea8f2ec9db1275, type: 2}
+  spawnDirectionOffset: -75
+  spawnCount: 5
+  spawnAngleAddition: 15
+  intervalCount: 10
+  intervalAngleAddition: 15
+  initialDelay: 0
+  intervalDelay: 0.05

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf9311c68eee37141b6c748579ebaa5a, type: 3}
+  m_Name: StraightShotPattern
+  m_EditorClassIdentifier: 
+  shotIcon: {fileID: 21300000, guid: 9ebf88016e1748448a89fc7f9b6d4947, type: 3}
+  dropIcon: {fileID: 21300000, guid: 06968d1362aee3f43aef9c3e38a122c1, type: 3}
+  bulletPrefab: {fileID: 4817379180329714, guid: 427596de024b2dd4ea8037443310f380,
+    type: 2}
+  bulletType: {fileID: 11400000, guid: a0321ca8414ca264b8d998a0c42e065b, type: 2}
+  spawnDirectionOffset: 0
+  spawnCount: 1
+  spawnAngleAddition: 0
+  intervalCount: 1
+  intervalAngleAddition: 0
+  initialDelay: 0
+  intervalDelay: 0
